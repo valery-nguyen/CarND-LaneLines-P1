@@ -1,3 +1,6 @@
+See LaneLines.ipynb for finalized code (latest update)
+See P1.ipynb for code submitted to Udacity
+
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
